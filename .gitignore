@@ -1,0 +1,8 @@
+# IDEA
+.idea
+
+# Build and setting
+/node_modules
+
+# Chanhe
+.eslintcache
